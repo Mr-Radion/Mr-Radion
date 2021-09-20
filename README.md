@@ -1,7 +1,8 @@
-## Hi there 👋
 <a id="anchor"></a>
 
-My name is Radion. I am 29 years old. I live in Russia, I am self-taught in development.
+## Hi there 👋
+
+My name is Radion. I am 29 years old. I live in Russia, I am a self-taught development.
 - In 2015, from the penultimate year, I moonlighting, and then founded a  student work business on the implementation of tasks, term papers and theses "give-5", did the work myself and delegated to the authors what I didn't understand or for what didn't have enough time. Hired employees remotely and promoted mainly through vkontakte and sundress
 - In 2018, a interest in development appeared, tritely, in order to scale I needed a multifunctional site, I ordered a design and from time to time worked on pages layout, delving into (HTML + CSS + PHP)
 - In 2019, I did not have enough time and, accordingly, the skills to create a full stack application, I had to choose than to do and I chose development, began to actively study programming (JavaScript + React + Nodejs), participated in startups, worked in teams, delved into all this agile bacchanalia and got involved head over heels in projects, set tasks for others, forgetting about the original reason for interest in development
@@ -25,8 +26,7 @@ My name is Radion. I am 29 years old. I live in Russia, I am self-taught in deve
 
 ## Portfolio
 
-
-[<span style="float: left;">Ссылка на мое портфолио<span>](https://github.com/Mr-Radion?tab=repositories) [<img src="http://s1.iconbird.com/ico/2014/1/598/w128h1281390846468upcircular128.png" style="width: 45px; float: right;">](#anchor)
+[<span style="float: left;">Ссылка на мое портфолио<span>](https://github.com/Mr-Radion?tab=repositories) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="http://s1.iconbird.com/ico/2014/1/598/w128h1281390846468upcircular128.png" style="width: 45px; float: right;">](#anchor)
 
 <!--
 **Mr-Radion/Mr-Radion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
