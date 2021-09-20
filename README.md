@@ -1,6 +1,14 @@
-### Hi there 👋. I'm Radion
+## Hi there 👋
 
-### My stack:
+My name is Radion. I am 29 years old. I live in Russia, I am self-taught in development.
+- In 2015, from the penultimate year, I moonlighting, and then founded a  student work business on the implementation of tasks, term papers and theses "give-5", did the work myself and delegated to the authors what I didn't understand or for what didn't have enough time. Hired employees remotely and promoted mainly through vkontakte and sundress
+- In 2018, a interest in development appeared, tritely, in order to scale I needed a multifunctional site, I ordered a design and from time to time worked on pages layout, delving into (HTML + CSS + PHP)
+- In 2019, I did not have enough time and, accordingly, the skills to create a full stack application, I had to choose than to do and I chose development, began to actively study programming (JavaScript + React + Nodejs), participated in startups, worked in teams, delved into all this agile bacchanalia and got involved head over heels in projects, set tasks for others, forgetting about the original reason for interest in development
+
+
+<a id="anchor"></a>
+
+## My stack:
 
 [![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com) [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/) [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/) [![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white)](http://www.css3.com)
 [![SASS](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/) [![STYLED COMPONENTS](https://img.shields.io/badge/STYLED_COMPONENTS-000000?style=for-the-badge&logo=STYLED-COMPONENTS&logoColor=white)](https://styled-components.com/) [![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.spec.whatwg.org/multipage/) [![React](https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org) [![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
@@ -8,17 +16,17 @@
 
 ## MyStats
 
-![Mr-Radion stats](https://github-readme-stats.vercel.app/api?username=Mr-Radion&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Radion)](https://github.com/Mr-Radion/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Radion)](https://github.com/Mr-Radion/github-readme-stats) &nbsp;&nbsp; ![Mr-Radion stats](https://github-readme-stats.vercel.app/api?username=Mr-Radion&show_icons=true&theme=onedark)
 
 ## Connect with me
 
----
-
-- Telegram: [https://t.me/Mr_R0dion](https://t.me/Mr_R0dion)
-- Mail: [mr.rodion_oa@mail.ru](mr.rodion_oa@mail.ru)
 <!-- Discord: -->
 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="https://t.me/Mr_R0dion" style="width: 30px">](https://t.me/Mr_R0dion) &nbsp;&nbsp; [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="mr.radrigis@gmail.com" style="width: 30px">](mr.radrigis@gmail.com)
+
 ## Portfolio
+
+[<img src="http://s1.iconbird.com/ico/2014/1/598/w128h1281390846468upcircular128.png" style="width: 45px; float: right;">](#anchor)
 
 [Ссылка на мое портфолио](https://github.com/Mr-Radion?tab=repositories)
 
@@ -155,5 +163,5 @@ _Курсивный текст_
 
 Источник информации
 [#15 Уроки Git+GitHub - Создание файла README.md синтаксис Markdown](https://www.youtube.com/watch?v=syrGPPekLHQ)
-
+[GitHub profile README. Прокачай свой GitHub профиль!](https://www.youtube.com/watch?v=O8knJcn5b-w&t=270s
 -->
