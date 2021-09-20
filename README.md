@@ -26,9 +26,8 @@ My name is Radion. I am 29 years old. I live in Russia, I am self-taught in deve
 
 ## Portfolio
 
-[<img src="http://s1.iconbird.com/ico/2014/1/598/w128h1281390846468upcircular128.png" style="width: 45px; float: right;">](#anchor)
 
-[Ссылка на мое портфолио](https://github.com/Mr-Radion?tab=repositories)
+[Ссылка на мое портфолио](https://github.com/Mr-Radion?tab=repositories) [<img src="http://s1.iconbird.com/ico/2014/1/598/w128h1281390846468upcircular128.png" style="width: 45px; float: right;">](#anchor)
 
 <!--
 **Mr-Radion/Mr-Radion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
