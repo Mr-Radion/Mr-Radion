@@ -10,8 +10,6 @@ My focus is on designing and building **scalable, maintainable backend systems**
 
 I approach engineering with an emphasis on **business impact, clean architecture, and long-term reliability**.
 
-📫 **How to reach me:** [@Rado_OA]
-
 ## My stack:
 
 [![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com) [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/) [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/) [![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white)](http://www.css3.com)
