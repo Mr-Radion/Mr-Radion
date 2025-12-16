@@ -16,7 +16,7 @@ I approach engineering with an emphasis on **business impact, clean architecture
 
 ## MyStats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Radion)](https://github.com/Mr-Radion/github-readme-stats) &nbsp;&nbsp; ![Mr-Radion stats](https://github-readme-stats.vercel.app/api?username=Mr-Radion&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Radion&token=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)](https://github.com/Mr-Radion/github-readme-stats) &nbsp;&nbsp; ![Mr-Radion stats](https://github-readme-stats.vercel.app/api?username=Mr-Radion&show_icons=true&theme=onedark&token=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)
 
 ## Connect with me
 
