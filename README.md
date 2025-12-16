@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-I'm Radion, a **Senior Backend Engineer (Node.js) with full-stack proficiency**.
+I'm Radion, a **Senior Backend Engineer (Node.js)**.
 
 My focus is on designing and building **scalable, maintainable backend systems**. 
 
@@ -12,7 +12,7 @@ I approach engineering with an emphasis on **business impact, clean architecture
 
 ## My stack:
 
-[![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com) [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/) [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/) [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/ru/) [![Nest.js](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=Nestjs&logoColor=white)](https://nestjs.com/) [![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white)](https://www.djangoproject.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/) [![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=Nginx&logoColor=white)](https://nginx.org/)
+[![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com) [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/) [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/ru/) [![Nest.js](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=Nestjs&logoColor=white)](https://nestjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/) [![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=Nginx&logoColor=white)](https://nginx.org/)
 
 ## MyStats
 
